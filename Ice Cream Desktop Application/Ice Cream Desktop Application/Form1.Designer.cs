@@ -66,6 +66,8 @@
             this.menuBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.menuBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.menuBtn.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.menuBtn.Image = global::Ice_Cream_Desktop_Application.Properties.Resources._001_menu;
+            this.menuBtn.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.menuBtn.Location = new System.Drawing.Point(0, 131);
             this.menuBtn.Name = "menuBtn";
             this.menuBtn.Size = new System.Drawing.Size(202, 50);
@@ -80,6 +82,8 @@
             this.specialBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.specialBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.specialBtn.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.specialBtn.Image = global::Ice_Cream_Desktop_Application.Properties.Resources._002_restaurant;
+            this.specialBtn.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.specialBtn.Location = new System.Drawing.Point(0, 86);
             this.specialBtn.Name = "specialBtn";
             this.specialBtn.Size = new System.Drawing.Size(202, 50);
@@ -94,6 +98,8 @@
             this.homeBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.homeBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.homeBtn.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.homeBtn.Image = global::Ice_Cream_Desktop_Application.Properties.Resources._003_home;
+            this.homeBtn.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.homeBtn.Location = new System.Drawing.Point(-2, 42);
             this.homeBtn.Name = "homeBtn";
             this.homeBtn.Size = new System.Drawing.Size(202, 50);
@@ -136,7 +142,7 @@
             this.Controls.Add(this.linkLabel1);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
