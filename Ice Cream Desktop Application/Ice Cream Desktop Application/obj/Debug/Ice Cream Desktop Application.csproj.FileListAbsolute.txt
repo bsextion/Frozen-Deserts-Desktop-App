@@ -1,0 +1,11 @@
+C:\Users\bbq10_hp\source\repos\Ice Cream Desktop Application\Ice Cream Desktop Application\bin\Debug\Ice Cream Desktop Application.exe.config
+C:\Users\bbq10_hp\source\repos\Ice Cream Desktop Application\Ice Cream Desktop Application\bin\Debug\Ice Cream Desktop Application.exe
+C:\Users\bbq10_hp\source\repos\Ice Cream Desktop Application\Ice Cream Desktop Application\bin\Debug\Ice Cream Desktop Application.pdb
+C:\Users\bbq10_hp\source\repos\Ice Cream Desktop Application\Ice Cream Desktop Application\obj\Debug\Ice_Cream_Desktop_Application.Form1.resources
+C:\Users\bbq10_hp\source\repos\Ice Cream Desktop Application\Ice Cream Desktop Application\obj\Debug\Ice_Cream_Desktop_Application.Properties.Resources.resources
+C:\Users\bbq10_hp\source\repos\Ice Cream Desktop Application\Ice Cream Desktop Application\obj\Debug\Ice Cream Desktop Application.csproj.GenerateResource.Cache
+C:\Users\bbq10_hp\source\repos\Ice Cream Desktop Application\Ice Cream Desktop Application\obj\Debug\Ice Cream Desktop Application.csproj.CoreCompileInputs.cache
+C:\Users\bbq10_hp\source\repos\Ice Cream Desktop Application\Ice Cream Desktop Application\obj\Debug\Ice Cream Desktop Application.exe
+C:\Users\bbq10_hp\source\repos\Ice Cream Desktop Application\Ice Cream Desktop Application\obj\Debug\Ice Cream Desktop Application.pdb
+C:\Users\bbq10_hp\source\repos\Ice Cream Desktop Application\Ice Cream Desktop Application\obj\Debug\Ice_Cream_Desktop_Application.CustomControl1.resources
+C:\Users\bbq10_hp\source\repos\Ice Cream Desktop Application\Ice Cream Desktop Application\obj\Debug\Ice_Cream_Desktop_Application.CustomControl2.resources
