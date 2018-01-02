@@ -69,5 +69,10 @@ namespace Ice_Cream_Desktop_Application
         {
 
         }
+
+        private void customControl11_Load_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }
